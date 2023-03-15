@@ -1,4 +1,6 @@
 const apiKey = "90112e623e1840a2c1391b79bd2c9ed0";
+
+
 const weatherInfo = document.getElementById("weather-info");
 
 async function getWeatherData(lat, lon) {
